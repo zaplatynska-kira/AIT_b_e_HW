@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/ait-tr/cohort31.2/main/back_end/lesson_project_shop/resources/Project.Shop.pdf
